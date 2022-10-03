@@ -1,0 +1,21 @@
+{
+    "manifest_version": 2,
+    "name": "UBC Kaltura downloader",
+    "version": "1.0",
+    "description": "Helper for downloading Kaltura videos at UBC embedded in Canvas.",
+    "homepage_url": "https://github.com/fei0316/ubc-canvas-kaltura-downloader",
+    "icons": {
+        "48": "icons/downb-48.png",
+        "96": "icons/downb-96.png"
+      },      
+    "browser_action": {
+        "default_icon": {
+            "16": "icons/downc-16.png",
+            "32": "icons/downc-32.png"
+        }
+    },
+    "permissions": ["webRequest", "tabs", "downloads", "*://*.ubc.ca/*"],
+    "background": {
+        "scripts": ["background.js"]
+    }
+}
