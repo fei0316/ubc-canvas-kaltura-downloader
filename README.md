@@ -7,6 +7,9 @@ Special thanks to nymann which developed the extension my work is based on: [Lin
 
 Special thanks to RemixIcon for the video download icon.
 
+## Known Issue
+Depending on the video and your connection, it might download different resolution versions of the same video. Simply cancel or delete the lower resolution (smaller) one
+
 ## Disclaimer
 This extension simply extracts the link the user's browser accesses for the embedded video and starts download operation automatically, 
 no "hacking" or "circumvention" has been done. 
