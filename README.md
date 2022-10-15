@@ -1,6 +1,8 @@
 # UBC Canvas Kaltura Downloader
 Helper to download UBC Canvas Kaltura embedded videos easily. Works on Firefox only.
 
+[Download from Firefox Addons here](https://addons.mozilla.org/en-US/firefox/addon/ubc-canvas-video-downloader)
+
 Special thanks to nymann which developed the extension my work is based on: [Link](https://github.com/nymann/sdu-kaltura-downloader)
 
 Special thanks to RemixIcon for the video download icon.
